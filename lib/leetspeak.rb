@@ -27,7 +27,7 @@
 class String
   define_method(:leetspeak) do
     word_array = self.split(' ')
-    new_array = []
+    leet_sentence = []
 
     word_array.each do |word|
       char_array = word.split('')
@@ -49,8 +49,8 @@ class String
           new_word.push(letter)
         end
       end
-      new_array.push(new_word.join())
+      leet_sentence.push(new_word.join())
     end
-    new_array.join(" ")
+    leet_sentence.join(" ")
   end
 end
