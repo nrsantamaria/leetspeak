@@ -1,6 +1,6 @@
 # _leetspeak_
 
-#### By _**Nicole Santamaria**_
+#### By _**Nicole Santamaria** and **Tanner Eustice**_
 
 ## Description
 _This repo has three projects, leetspeak, clock angle and queen attack. Leetspeak is an app that takes a word and deciphers it into a leet, an informal language or code used on the Internet, in which standard letters are often replaced by numerals or special characters. Clock angle determines the angle of a clocks hands. Queen attack is an attempt at chess just for a queen._
